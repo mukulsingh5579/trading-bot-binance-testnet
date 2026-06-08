@@ -5,8 +5,8 @@ from bot.orders import OrderService
 from bot.logging_config import setup_logger
 
 
-API_KEY = "leNBrQQdeYiDuEH2fWcdSfNxpSTAE9B4I7muC0SV8MEE3Hb4ZFHTPJEJovCD6kBk"
-API_SECRET = "t2raBOpMAP1uQfmNFD42u3utdP4B7mbdiVdLodS19bckn7W2b4MUQaNx2tJIueCd"
+API_KEY = "YOUR_API_KEY"
+API_SECRET = "YOUR_API_SECRET"
 
 
 logger = setup_logger()
